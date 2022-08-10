@@ -56,7 +56,6 @@
 
 <p align="center"><a href="https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2FITZ-ZAID%2FHeroku&template=https%3A%2F%2Fgithub.com%2FITZ-ZAID%2FHeroku"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-pink?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
-<img src="https://telegra.ph/file/97e6de197eba98d2caba5.jpg" align="right" width="350" height="700"/>
 
 ### 🚀 Deploy Process
 - Click on the deploy button above and login to your [heroku account](https://heroku.com/login) .
@@ -83,8 +82,8 @@
 - Click on save button there at bottom to save your logs and forward it to us on [@Bot_Support](https://t.me/Superior_Support) if you face any problem
 
 ```console
-VILLAIN@Windows~ $ git clone https://github.com/ITZ-ZAID/Zaid-Vc-Player
-VILLAIN@Windows~ $ cd Zaid-Vc-Player 
+VILLAIN@Windows~ $ git clone https://github.com/rohitraj_hub_hero/Zaid-Vc-Player
+VILLAIN@Windows~ $ cd Villain-Vc-Player 
 vILLAIN@Windows~ $ bash setup
 VILLAIN@Windows~ $ cp sample.env .env
 ```
