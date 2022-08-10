@@ -1,6 +1,6 @@
-<h2 align="centre"> Pɪᴋᴀᴄʜᴜ 𝙑𝙤𝙞𝙘𝙚 𝙋𝙡𝙖𝙮𝙚𝙧🔥</h2>
+<h2 align="centre"> 𝐃𝐄𝐕 𝙑𝙤𝙞𝙘𝙚 𝙋𝙡𝙖𝙮𝙚𝙧🔥</h2>
 
-### 𝑷𝑰𝑲𝑨𝑪𝑯𝑼 ᴠᴄ ᴘʟᴀʏᴇʀ ɪꜱ ᴀ ᴛᴇʟᴇɢʀᴀᴍ ᴘʀᴏᴊᴇᴄᴛ ʙᴀꜱᴇᴅ ᴏɴ ᴘʏʀᴏɢʀᴀᴍ ꜰᴏʀ ᴘʟᴀʏ ᴍᴜꜱɪᴄꜱ ɪɴ ᴠᴄ ᴄʜᴀᴛꜱ...
+### 𝐃𝐄𝐕 ᴠᴄ ᴘʟᴀʏᴇʀ ɪꜱ ᴀ ᴛᴇʟᴇɢʀᴀᴍ ᴘʀᴏᴊᴇᴄᴛ ʙᴀꜱᴇᴅ ᴏɴ ᴘʏʀᴏɢʀᴀᴍ ꜰᴏʀ ᴘʟᴀʏ ᴍᴜꜱɪᴄꜱ ɪɴ ᴠᴄ ᴄʜᴀᴛꜱ...
 
 <p align="center"><a href="https://t.me/pikachu_suppports"><img src="https://telegra.ph/file/c4e036012053c3eb85e80.jpg" width="300"></a></p>
 <p align="center">
